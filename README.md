@@ -14,13 +14,6 @@ Welcome to the **Restaurant app** repository! This project is an online platform
 
 ---
 
-## Live Demo
-
-The application has been deployed on the Vercel platform. You can access it directly using the link below:
-
-👉 [Live Demo on Vercel](https://restaurant-webapp-seven.vercel.app/login) 
-
----
 
 ## Getting Started
 
